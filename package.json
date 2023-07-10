@@ -1,6 +1,6 @@
 {
   "name": "jsx-tags",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A tool for using react without jsx",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
